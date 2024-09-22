@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kavya1821
-- 👀 I’m interested in in coding,reading and painting.
+- 👀 I’m interested in  coding,reading and painting.
 - 🌱 I’m currently learning Data science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me >>-- nimkavya@gmail.com
